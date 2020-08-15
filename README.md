@@ -1,13 +1,13 @@
 # Clicker
 A cool Clicking game using python
 
-I bought my first laptop last month. It was really difficult to set my hands on the touchpad as wellas keyboard. In order to solve this problem I came up with a creative solution. 
+I bought my first laptop last month. It was really difficult to set my hands on the touchpad as well as keyboard. In order to solve this problem I came up with a creative solution. 
 
 ## Presenting clicker.....
 
-A cool clicking game that checks you control over your touchpad. Click the correct block to get the points. each wrong click will result in points deduction.
+A cool clicking game that checks your control over your touchpad. Click the correct block to get the points. each wrong click will result in points deduction.
 
-Again I thank the vast library support of python that enabled me to complete this project. Please make sure you have these libraries installed in you device before running the code.
+Again I thank the vast library support of python that enabled me to complete this project. Please make sure you have these libraries installed in your device before running the code.
 
 1. Functools:- Documentation:- https://docs.python.org/3/library/functools.html
 2. Random:- Documentation:- https://docs.python.org/3/library/random.html
